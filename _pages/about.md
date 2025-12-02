@@ -8,7 +8,7 @@ profile:
   align: right
   image: ujjwal12.jpg
   image_circular: false # crops the image to make it circular
-   address: >
+  address: >
     <p>Department of Electronics and Communication Engg,</p>
     <p>Manipal Institute of Technology,</p>
     <p>Udupi, India</p>
