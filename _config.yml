@@ -192,6 +192,11 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _posts/           # Exclude the entire blog folder
+  - _projects/        # Exclude the entire projects folder
+  - _pages/blog.md    # Exclude the blog markdown file
+  - _pages/cv.md      # Exclude the CV markdown file
+  - _pages/projects.md # Exclude the projects markdown file
 keep_files:
   - CNAME
   - .nojekyll
