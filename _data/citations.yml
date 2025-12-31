@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-24'
+  last_updated: '2025-12-31'
 papers:
   XSzIFIgAAAAJ:0EnyYjriUFMC:
     citations: 7
@@ -62,7 +62,7 @@ papers:
     title: Correlation-Based Band Selection for Hyperspectral Image Classification
     year: '2025'
   XSzIFIgAAAAJ:GnPB-g6toBAC:
-    citations: 14
+    citations: 15
     title: 'Vehicle Re-Identification and Tracking: Algorithmic Approach, Challenges and Future Directions'
     year: '2025'
   XSzIFIgAAAAJ:IWHjjKOFINEC:
@@ -130,7 +130,7 @@ papers:
     title: 'DeepRivWidth: Deep learning based semantic segmentation approach for river identification and width measurement in SAR images of Coastal Karnataka'
     year: '2021'
   XSzIFIgAAAAJ:TQgYirikUcIC:
-    citations: 45
+    citations: 46
     title: 'There are no data like more data: Datasets for deep learning in earth observation'
     year: '2023'
   XSzIFIgAAAAJ:Tyk-4Ss8FVUC:
@@ -138,7 +138,7 @@ papers:
     title: Thread integrated smart-phone imaging facilitates early turning point colorimetric assay for microbes
     year: '2020'
   XSzIFIgAAAAJ:UeHWp8X0CEIC:
-    citations: 37
+    citations: 39
     title: Semantic segmentation of UAV aerial videos using convolutional neural networks
     year: '2019'
   XSzIFIgAAAAJ:W7OEmFMy1HYC:
@@ -154,7 +154,7 @@ papers:
     title: 'Enhanced vehicle re-identification for ITS: A feature fusion approach using deep learning'
     year: '2022'
   XSzIFIgAAAAJ:Y0pCki6q_DkC:
-    citations: 109
+    citations: 111
     title: Weed density and distribution estimation for precision agriculture using semi-supervised learning
     year: '2021'
   XSzIFIgAAAAJ:YFjsv_pBGBYC:
@@ -186,7 +186,7 @@ papers:
     title: BERT based Transformers lead the way in Extraction of Health Information from Social Media
     year: Unknown Year
   XSzIFIgAAAAJ:bEWYMUwI8FkC:
-    citations: 10
+    citations: 11
     title: 'MSFFT: Multi-Scale Feature Fusion Transformer for cross platform vehicle re-identification'
     year: '2024'
   XSzIFIgAAAAJ:blknAaTinKkC:
@@ -262,7 +262,7 @@ papers:
     title: 'DEAL-YOLO: Drone-based Efficient Animal Localization using YOLO'
     year: '2025'
   XSzIFIgAAAAJ:qUcmZB5y_30C:
-    citations: 8
+    citations: 9
     title: Enhanced vehicle re-identification for smart city applications using zone specific surveillance
     year: '2023'
   XSzIFIgAAAAJ:qjMakFHDy7sC:
