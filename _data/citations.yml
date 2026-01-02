@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-31'
+  last_updated: '2026-01-02'
 papers:
   XSzIFIgAAAAJ:0EnyYjriUFMC:
     citations: 7
@@ -85,6 +85,10 @@ papers:
     citations: 4
     title: Vehicle re-identification in smart city transportation using hybrid surveillance systems
     year: '2021'
+  XSzIFIgAAAAJ:M05iB0D1s5AC:
+    citations: 0
+    title: 'Report on the 2025 IEEE GRSS Data Fusion Contest: All-Weather Land Cover and Building Damage Mapping [Technical Committees]'
+    year: '2025'
   XSzIFIgAAAAJ:M3NEmzRMIkIC:
     citations: 0
     title: 'InGARSS 2023 in Bangalore: Striking a Balance [Conference Reports]'
