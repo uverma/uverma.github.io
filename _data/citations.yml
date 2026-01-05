@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-02'
+  last_updated: '2026-01-05'
 papers:
   XSzIFIgAAAAJ:0EnyYjriUFMC:
     citations: 7
@@ -66,7 +66,7 @@ papers:
     title: 'Vehicle Re-Identification and Tracking: Algorithmic Approach, Challenges and Future Directions'
     year: '2025'
   XSzIFIgAAAAJ:IWHjjKOFINEC:
-    citations: 10
+    citations: 11
     title: Fish tracking and continual behavioral pattern clustering using novel Sillago Sihama Vid (SSVid)
     year: '2023'
   XSzIFIgAAAAJ:IjCSPb-OGe4C:
@@ -190,7 +190,7 @@ papers:
     title: BERT based Transformers lead the way in Extraction of Health Information from Social Media
     year: Unknown Year
   XSzIFIgAAAAJ:bEWYMUwI8FkC:
-    citations: 11
+    citations: 12
     title: 'MSFFT: Multi-Scale Feature Fusion Transformer for cross platform vehicle re-identification'
     year: '2024'
   XSzIFIgAAAAJ:blknAaTinKkC:
@@ -206,7 +206,7 @@ papers:
     title: Texture aware unsupervised segmentation for assessment of flood severity in uav aerial images
     year: '2022'
   XSzIFIgAAAAJ:e5wmG9Sq2KIC:
-    citations: 38
+    citations: 37
     title: Pattern detection and prediction using deep learning for intelligent decision support to identify fish behaviour in aquaculture
     year: '2023'
   XSzIFIgAAAAJ:eQOLeE2rZwMC:
