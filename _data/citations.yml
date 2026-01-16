@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-05'
+  last_updated: '2026-01-16'
 papers:
   XSzIFIgAAAAJ:0EnyYjriUFMC:
     citations: 7
@@ -29,10 +29,6 @@ papers:
     citations: 2
     title: 'ARD, FAIR Earth Observation Principles, Data Fusion: Where are we and where do we need to go?'
     year: '2023'
-  XSzIFIgAAAAJ:4TOpqqG69KYC:
-    citations: 3
-    title: Contextual information based anomaly detection for multi-scene aerial videos
-    year: '2025'
   XSzIFIgAAAAJ:5nxA0vEk-isC:
     citations: 7
     title: Lstm-based prediction of water quality parameters system in backwaters
@@ -66,7 +62,7 @@ papers:
     title: 'Vehicle Re-Identification and Tracking: Algorithmic Approach, Challenges and Future Directions'
     year: '2025'
   XSzIFIgAAAAJ:IWHjjKOFINEC:
-    citations: 11
+    citations: 12
     title: Fish tracking and continual behavioral pattern clustering using novel Sillago Sihama Vid (SSVid)
     year: '2023'
   XSzIFIgAAAAJ:IjCSPb-OGe4C:
@@ -117,10 +113,6 @@ papers:
     citations: 1
     title: Comparison of Texture Classifiers with Deep Learning Methods for Flooded Region Identification in UAV Aerial Images
     year: '2022'
-  XSzIFIgAAAAJ:RGFaLdJalmkC:
-    citations: 0
-    title: 'DEAL-YOLO: Drone-based Efficient Animal Localization using YOLO'
-    year: '2025'
   XSzIFIgAAAAJ:RHpTSmoSYBkC:
     citations: 1
     title: 'Improved semantic segmentation for identification of flooded regions in UAV aerial images: a transformer-based approach'
@@ -130,7 +122,7 @@ papers:
     title: Leveraging Self-Supervised Features for Efficient Flooded Region Identification in UAV Aerial Images
     year: '2025'
   XSzIFIgAAAAJ:Se3iqnhoufwC:
-    citations: 60
+    citations: 61
     title: 'DeepRivWidth: Deep learning based semantic segmentation approach for river identification and width measurement in SAR images of Coastal Karnataka'
     year: '2021'
   XSzIFIgAAAAJ:TQgYirikUcIC:
@@ -146,7 +138,7 @@ papers:
     title: Semantic segmentation of UAV aerial videos using convolutional neural networks
     year: '2019'
   XSzIFIgAAAAJ:W7OEmFMy1HYC:
-    citations: 68
+    citations: 69
     title: 'Uvid-net: Enhanced semantic segmentation of uav aerial videos by embedding temporal information'
     year: '2021'
   XSzIFIgAAAAJ:WF5omc3nYNoC:
@@ -161,10 +153,6 @@ papers:
     citations: 111
     title: Weed density and distribution estimation for precision agriculture using semi-supervised learning
     year: '2021'
-  XSzIFIgAAAAJ:YFjsv_pBGBYC:
-    citations: 0
-    title: 'HipyrNet: Hypernet-Guided Feature Pyramid network for mixed-exposure correction'
-    year: '2025'
   XSzIFIgAAAAJ:YsMSGLbcyi4C:
     citations: 27
     title: Computer vision based fish tracking and behaviour detection system
@@ -206,7 +194,7 @@ papers:
     title: Texture aware unsupervised segmentation for assessment of flood severity in uav aerial images
     year: '2022'
   XSzIFIgAAAAJ:e5wmG9Sq2KIC:
-    citations: 37
+    citations: 40
     title: Pattern detection and prediction using deep learning for intelligent decision support to identify fish behaviour in aquaculture
     year: '2023'
   XSzIFIgAAAAJ:eQOLeE2rZwMC:
@@ -242,7 +230,7 @@ papers:
     title: Flood magnitude assessment from UAV aerial videos based on image segmentation and similarity
     year: '2021'
   XSzIFIgAAAAJ:lSLTfruPkqcC:
-    citations: 1
+    citations: 4
     title: Contextual information based anomaly detection for multi-scene aerial videos
     year: '2025'
   XSzIFIgAAAAJ:ldfaerwXgEUC:
