@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-01-16'
+  last_updated: '2026-02-02'
 papers:
   XSzIFIgAAAAJ:0EnyYjriUFMC:
-    citations: 7
+    citations: 8
     title: Evaluating predictive uncertainty and robustness to distributional shift using real world data
     year: '2021'
   XSzIFIgAAAAJ:2P1L_qKh6hAC:
@@ -58,7 +58,7 @@ papers:
     title: Correlation-Based Band Selection for Hyperspectral Image Classification
     year: '2025'
   XSzIFIgAAAAJ:GnPB-g6toBAC:
-    citations: 15
+    citations: 18
     title: 'Vehicle Re-Identification and Tracking: Algorithmic Approach, Challenges and Future Directions'
     year: '2025'
   XSzIFIgAAAAJ:IWHjjKOFINEC:
@@ -74,7 +74,7 @@ papers:
     title: Recent advances in machine learning for remote sensing toward the sustainable development goals
     year: '2024'
   XSzIFIgAAAAJ:J_g5lzvAfSwC:
-    citations: 1
+    citations: 0
     title: Adversarial Robustness of Deep Learning Models for Inland Water Body Segmentation from SAR Images
     year: '2025'
   XSzIFIgAAAAJ:KlAtU1dfN6UC:
@@ -98,7 +98,7 @@ papers:
     title: 'Behavioural Pattern Analysis of Fishes for Smart Aquaculture: An Object Centric Approach'
     year: '2021'
   XSzIFIgAAAAJ:NMxIlDl6LWMC:
-    citations: 0
+    citations: 2
     title: 'HipyrNet: Hypernet-Guided Feature Pyramid network for mixed-exposure correction'
     year: '2025'
   XSzIFIgAAAAJ:NaGl4SEjCO4C:
@@ -122,11 +122,11 @@ papers:
     title: Leveraging Self-Supervised Features for Efficient Flooded Region Identification in UAV Aerial Images
     year: '2025'
   XSzIFIgAAAAJ:Se3iqnhoufwC:
-    citations: 61
+    citations: 63
     title: 'DeepRivWidth: Deep learning based semantic segmentation approach for river identification and width measurement in SAR images of Coastal Karnataka'
     year: '2021'
   XSzIFIgAAAAJ:TQgYirikUcIC:
-    citations: 46
+    citations: 49
     title: 'There are no data like more data: Datasets for deep learning in earth observation'
     year: '2023'
   XSzIFIgAAAAJ:Tyk-4Ss8FVUC:
@@ -134,11 +134,11 @@ papers:
     title: Thread integrated smart-phone imaging facilitates early turning point colorimetric assay for microbes
     year: '2020'
   XSzIFIgAAAAJ:UeHWp8X0CEIC:
-    citations: 39
+    citations: 40
     title: Semantic segmentation of UAV aerial videos using convolutional neural networks
     year: '2019'
   XSzIFIgAAAAJ:W7OEmFMy1HYC:
-    citations: 69
+    citations: 70
     title: 'Uvid-net: Enhanced semantic segmentation of uav aerial videos by embedding temporal information'
     year: '2021'
   XSzIFIgAAAAJ:WF5omc3nYNoC:
@@ -150,7 +150,7 @@ papers:
     title: 'Enhanced vehicle re-identification for ITS: A feature fusion approach using deep learning'
     year: '2022'
   XSzIFIgAAAAJ:Y0pCki6q_DkC:
-    citations: 111
+    citations: 112
     title: Weed density and distribution estimation for precision agriculture using semi-supervised learning
     year: '2021'
   XSzIFIgAAAAJ:YsMSGLbcyi4C:
@@ -186,7 +186,7 @@ papers:
     title: 'LapGSR: Laplacian Reconstructive Network for Guided Thermal Super-Resolution'
     year: '2024'
   XSzIFIgAAAAJ:d1gkVwhDpl0C:
-    citations: 18
+    citations: 19
     title: Segmentation and size estimation of tomatoes from sequences of paired images
     year: '2015'
   XSzIFIgAAAAJ:dhFuZR0502QC:
@@ -194,13 +194,17 @@ papers:
     title: Texture aware unsupervised segmentation for assessment of flood severity in uav aerial images
     year: '2022'
   XSzIFIgAAAAJ:e5wmG9Sq2KIC:
-    citations: 40
+    citations: 41
     title: Pattern detection and prediction using deep learning for intelligent decision support to identify fish behaviour in aquaculture
     year: '2023'
   XSzIFIgAAAAJ:eQOLeE2rZwMC:
     citations: 19
     title: Efficient vehicle counting by eliminating identical vehicles in uav aerial videos
     year: '2020'
+  XSzIFIgAAAAJ:g5m5HwL7SMYC:
+    citations: 0
+    title: Laplacian reconstructive network for guided thermal super-resolution
+    year: '2026'
   XSzIFIgAAAAJ:hC7cP41nSMkC:
     citations: 29
     title: 'Texture based prototypical network for few-shot semantic segmentation of forest cover: Generalizing for different geographical regions'
@@ -270,7 +274,7 @@ papers:
     title: BERT based Transformers lead the way in Extraction of Health Information from Social Media
     year: '2021'
   XSzIFIgAAAAJ:u-x6o8ySG0sC:
-    citations: 18
+    citations: 19
     title: Shape-based segmentation of tomatoes for agriculture monitoring
     year: '2014'
   XSzIFIgAAAAJ:u5HHmVD_uO8C:
@@ -286,6 +290,6 @@ papers:
     title: '2025 IEEE GRSS Data Fusion Contest: All-Weather Land Cover and Building Damage Mapping'
     year: '2025'
   XSzIFIgAAAAJ:zYLM7Y9cAGgC:
-    citations: 43
+    citations: 44
     title: Improved semantic segmentation of water bodies and land in SAR images using generative adversarial networks
     year: '2020'
