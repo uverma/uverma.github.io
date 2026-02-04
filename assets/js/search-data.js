@@ -78,16 +78,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-i-m-delighted-to-share-that-i-ve-been-appointed-as-the-co-chair-of-the-ieee-grss-image-analysis-and-data-fusion-technical-committee-iadf-tc-of-the-ieee-geoscience-and-remote-sensing-society",
+          title: 'I’m delighted to share that I’ve been appointed as the Co-Chair of the...',
           description: "",
           section: "News",},{
         id: 'social-email',
