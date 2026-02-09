@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-02'
+  last_updated: '2026-02-09'
 papers:
   XSzIFIgAAAAJ:0EnyYjriUFMC:
     citations: 8
@@ -46,7 +46,7 @@ papers:
     title: Exploring Techniques for Photo-realistic Image Generation from 3D Models-A Deep Learning Approach
     year: '2021'
   XSzIFIgAAAAJ:9ZlFYXVOiuMC:
-    citations: 4
+    citations: 5
     title: Recent trends and challenges in analysis of uav aerial images for post-disaster scene understanding
     year: '2022'
   XSzIFIgAAAAJ:9yKSN-GCB0IC:
@@ -122,11 +122,11 @@ papers:
     title: Leveraging Self-Supervised Features for Efficient Flooded Region Identification in UAV Aerial Images
     year: '2025'
   XSzIFIgAAAAJ:Se3iqnhoufwC:
-    citations: 63
+    citations: 64
     title: 'DeepRivWidth: Deep learning based semantic segmentation approach for river identification and width measurement in SAR images of Coastal Karnataka'
     year: '2021'
   XSzIFIgAAAAJ:TQgYirikUcIC:
-    citations: 49
+    citations: 52
     title: 'There are no data like more data: Datasets for deep learning in earth observation'
     year: '2023'
   XSzIFIgAAAAJ:Tyk-4Ss8FVUC:
@@ -194,7 +194,7 @@ papers:
     title: Texture aware unsupervised segmentation for assessment of flood severity in uav aerial images
     year: '2022'
   XSzIFIgAAAAJ:e5wmG9Sq2KIC:
-    citations: 41
+    citations: 42
     title: Pattern detection and prediction using deep learning for intelligent decision support to identify fish behaviour in aquaculture
     year: '2023'
   XSzIFIgAAAAJ:eQOLeE2rZwMC:
@@ -254,11 +254,11 @@ papers:
     title: Towards Interpretable Machine Learning Metrics For Earth Observation Image Analysis
     year: '2024'
   XSzIFIgAAAAJ:ns9cj8rnVeAC:
-    citations: 3
+    citations: 4
     title: 'DEAL-YOLO: Drone-based Efficient Animal Localization using YOLO'
     year: '2025'
   XSzIFIgAAAAJ:qUcmZB5y_30C:
-    citations: 9
+    citations: 8
     title: Enhanced vehicle re-identification for smart city applications using zone specific surveillance
     year: '2023'
   XSzIFIgAAAAJ:qjMakFHDy7sC:
@@ -290,6 +290,6 @@ papers:
     title: '2025 IEEE GRSS Data Fusion Contest: All-Weather Land Cover and Building Damage Mapping'
     year: '2025'
   XSzIFIgAAAAJ:zYLM7Y9cAGgC:
-    citations: 44
+    citations: 45
     title: Improved semantic segmentation of water bodies and land in SAR images using generative adversarial networks
     year: '2020'
