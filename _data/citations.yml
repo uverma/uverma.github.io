@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-02-09'
+  last_updated: '2026-03-23'
 papers:
   XSzIFIgAAAAJ:0EnyYjriUFMC:
-    citations: 8
+    citations: 7
     title: Evaluating predictive uncertainty and robustness to distributional shift using real world data
     year: '2021'
   XSzIFIgAAAAJ:2P1L_qKh6hAC:
@@ -10,7 +10,7 @@ papers:
     title: SIMULATION AND IMPLEMENTATION OF GRID TIED SOLAR PHOTOVOLTAIC SYSTEM WITH FUZZY CONTROL BASED UNIVERSAL BRIDGE INVERTER
     year: '2020'
   XSzIFIgAAAAJ:2osOgNQ5qMEC:
-    citations: 1
+    citations: 2
     title: Tomato development monitoring in an open field, using a two-camera acquisition system
     year: '2014'
   XSzIFIgAAAAJ:35N4QoGY0k4C:
@@ -23,7 +23,7 @@ papers:
     year: '2021'
   XSzIFIgAAAAJ:4DMP91E08xMC:
     citations: 1
-    title: 'Enhanced Vehicle Re-identification for ITS: A Feature Fusion approach using Deep Learning'
+    title: 'Enhanced vehicle re-identification for ITS: a feature fusion approach using deep learning'
     year: '2022'
   XSzIFIgAAAAJ:4JMBOYKVnBMC:
     citations: 2
@@ -54,15 +54,15 @@ papers:
     title: Segmentation of tomatoes in open field images with shape and temporal constraints
     year: '2015'
   XSzIFIgAAAAJ:BqipwSGYUEgC:
-    citations: 2
+    citations: 4
     title: Correlation-Based Band Selection for Hyperspectral Image Classification
     year: '2025'
   XSzIFIgAAAAJ:GnPB-g6toBAC:
-    citations: 18
-    title: 'Vehicle Re-Identification and Tracking: Algorithmic Approach, Challenges and Future Directions'
+    citations: 23
+    title: 'Vehicle re-identification and tracking: Algorithmic approach, challenges and future directions'
     year: '2025'
   XSzIFIgAAAAJ:IWHjjKOFINEC:
-    citations: 12
+    citations: 11
     title: Fish tracking and continual behavioral pattern clustering using novel Sillago Sihama Vid (SSVid)
     year: '2023'
   XSzIFIgAAAAJ:IjCSPb-OGe4C:
@@ -70,13 +70,13 @@ papers:
     title: Performance analysis of semantic segmentation algorithms for finely annotated new uav aerial video dataset (manipaluavid)
     year: '2019'
   XSzIFIgAAAAJ:JV2RwH3_ST0C:
-    citations: 2
+    citations: 4
     title: Recent advances in machine learning for remote sensing toward the sustainable development goals
     year: '2024'
   XSzIFIgAAAAJ:J_g5lzvAfSwC:
     citations: 0
     title: Adversarial Robustness of Deep Learning Models for Inland Water Body Segmentation from SAR Images
-    year: '2025'
+    year: '2026'
   XSzIFIgAAAAJ:KlAtU1dfN6UC:
     citations: 4
     title: Vehicle re-identification in smart city transportation using hybrid surveillance systems
@@ -122,15 +122,15 @@ papers:
     title: Leveraging Self-Supervised Features for Efficient Flooded Region Identification in UAV Aerial Images
     year: '2025'
   XSzIFIgAAAAJ:Se3iqnhoufwC:
-    citations: 64
+    citations: 67
     title: 'DeepRivWidth: Deep learning based semantic segmentation approach for river identification and width measurement in SAR images of Coastal Karnataka'
     year: '2021'
   XSzIFIgAAAAJ:TQgYirikUcIC:
-    citations: 52
+    citations: 58
     title: 'There are no data like more data: Datasets for deep learning in earth observation'
     year: '2023'
   XSzIFIgAAAAJ:Tyk-4Ss8FVUC:
-    citations: 28
+    citations: 27
     title: Thread integrated smart-phone imaging facilitates early turning point colorimetric assay for microbes
     year: '2020'
   XSzIFIgAAAAJ:UeHWp8X0CEIC:
@@ -150,11 +150,11 @@ papers:
     title: 'Enhanced vehicle re-identification for ITS: A feature fusion approach using deep learning'
     year: '2022'
   XSzIFIgAAAAJ:Y0pCki6q_DkC:
-    citations: 112
+    citations: 117
     title: Weed density and distribution estimation for precision agriculture using semi-supervised learning
     year: '2021'
   XSzIFIgAAAAJ:YsMSGLbcyi4C:
-    citations: 27
+    citations: 28
     title: Computer vision based fish tracking and behaviour detection system
     year: '2020'
   XSzIFIgAAAAJ:ZeXyd9-uunAC:
@@ -178,7 +178,7 @@ papers:
     title: BERT based Transformers lead the way in Extraction of Health Information from Social Media
     year: Unknown Year
   XSzIFIgAAAAJ:bEWYMUwI8FkC:
-    citations: 12
+    citations: 13
     title: 'MSFFT: Multi-Scale Feature Fusion Transformer for cross platform vehicle re-identification'
     year: '2024'
   XSzIFIgAAAAJ:blknAaTinKkC:
@@ -186,19 +186,19 @@ papers:
     title: 'LapGSR: Laplacian Reconstructive Network for Guided Thermal Super-Resolution'
     year: '2024'
   XSzIFIgAAAAJ:d1gkVwhDpl0C:
-    citations: 19
+    citations: 20
     title: Segmentation and size estimation of tomatoes from sequences of paired images
     year: '2015'
   XSzIFIgAAAAJ:dhFuZR0502QC:
     citations: 6
-    title: Texture aware unsupervised segmentation for assessment of flood severity in uav aerial images
+    title: Texture aware unsupervised segmentation for assessment of flood severity in UAV aerial images
     year: '2022'
   XSzIFIgAAAAJ:e5wmG9Sq2KIC:
-    citations: 42
+    citations: 49
     title: Pattern detection and prediction using deep learning for intelligent decision support to identify fish behaviour in aquaculture
     year: '2023'
   XSzIFIgAAAAJ:eQOLeE2rZwMC:
-    citations: 19
+    citations: 20
     title: Efficient vehicle counting by eliminating identical vehicles in uav aerial videos
     year: '2020'
   XSzIFIgAAAAJ:g5m5HwL7SMYC:
@@ -206,7 +206,7 @@ papers:
     title: Laplacian reconstructive network for guided thermal super-resolution
     year: '2026'
   XSzIFIgAAAAJ:hC7cP41nSMkC:
-    citations: 29
+    citations: 31
     title: 'Texture based prototypical network for few-shot semantic segmentation of forest cover: Generalizing for different geographical regions'
     year: '2023'
   XSzIFIgAAAAJ:hFOr9nPyWt4C:
@@ -234,7 +234,7 @@ papers:
     title: Flood magnitude assessment from UAV aerial videos based on image segmentation and similarity
     year: '2021'
   XSzIFIgAAAAJ:lSLTfruPkqcC:
-    citations: 4
+    citations: 6
     title: Contextual information based anomaly detection for multi-scene aerial videos
     year: '2025'
   XSzIFIgAAAAJ:ldfaerwXgEUC:
@@ -254,27 +254,27 @@ papers:
     title: Towards Interpretable Machine Learning Metrics For Earth Observation Image Analysis
     year: '2024'
   XSzIFIgAAAAJ:ns9cj8rnVeAC:
-    citations: 4
-    title: 'DEAL-YOLO: Drone-based Efficient Animal Localization using YOLO'
+    citations: 5
+    title: 'DEAL-YOLO: Drone-based efficient animal localization using YOLO'
     year: '2025'
   XSzIFIgAAAAJ:qUcmZB5y_30C:
-    citations: 8
+    citations: 9
     title: Enhanced vehicle re-identification for smart city applications using zone specific surveillance
     year: '2023'
   XSzIFIgAAAAJ:qjMakFHDy7sC:
-    citations: 53
+    citations: 54
     title: 'Automatic segmentation of river and land in sar images: A deep learning approach'
     year: '2019'
   XSzIFIgAAAAJ:r0BpntZqJG4C:
     citations: 0
-    title: 'SolarPanel Segmentation: Self-Supervised Learning for Imperfect Datasets'
+    title: 'SolarPanel Segmentation: Self-Supervised Learning for Imperfect Datasets.'
     year: '2024'
   XSzIFIgAAAAJ:roLk4NBRz8UC:
     citations: 0
     title: BERT based Transformers lead the way in Extraction of Health Information from Social Media
     year: '2021'
   XSzIFIgAAAAJ:u-x6o8ySG0sC:
-    citations: 19
+    citations: 20
     title: Shape-based segmentation of tomatoes for agriculture monitoring
     year: '2014'
   XSzIFIgAAAAJ:u5HHmVD_uO8C:
@@ -286,7 +286,7 @@ papers:
     title: Image stitching using computer vision algorithms
     year: '2019'
   XSzIFIgAAAAJ:vV6vV6tmYwMC:
-    citations: 0
+    citations: 1
     title: '2025 IEEE GRSS Data Fusion Contest: All-Weather Land Cover and Building Damage Mapping'
     year: '2025'
   XSzIFIgAAAAJ:zYLM7Y9cAGgC:
