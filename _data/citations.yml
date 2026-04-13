@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-23'
+  last_updated: '2026-04-13'
 papers:
   XSzIFIgAAAAJ:0EnyYjriUFMC:
     citations: 7
@@ -62,7 +62,7 @@ papers:
     title: 'Vehicle re-identification and tracking: Algorithmic approach, challenges and future directions'
     year: '2025'
   XSzIFIgAAAAJ:IWHjjKOFINEC:
-    citations: 11
+    citations: 13
     title: Fish tracking and continual behavioral pattern clustering using novel Sillago Sihama Vid (SSVid)
     year: '2023'
   XSzIFIgAAAAJ:IjCSPb-OGe4C:
@@ -138,7 +138,7 @@ papers:
     title: Semantic segmentation of UAV aerial videos using convolutional neural networks
     year: '2019'
   XSzIFIgAAAAJ:W7OEmFMy1HYC:
-    citations: 70
+    citations: 71
     title: 'Uvid-net: Enhanced semantic segmentation of uav aerial videos by embedding temporal information'
     year: '2021'
   XSzIFIgAAAAJ:WF5omc3nYNoC:
@@ -150,11 +150,11 @@ papers:
     title: 'Enhanced vehicle re-identification for ITS: A feature fusion approach using deep learning'
     year: '2022'
   XSzIFIgAAAAJ:Y0pCki6q_DkC:
-    citations: 117
+    citations: 118
     title: Weed density and distribution estimation for precision agriculture using semi-supervised learning
     year: '2021'
   XSzIFIgAAAAJ:YsMSGLbcyi4C:
-    citations: 28
+    citations: 29
     title: Computer vision based fish tracking and behaviour detection system
     year: '2020'
   XSzIFIgAAAAJ:ZeXyd9-uunAC:
@@ -182,7 +182,7 @@ papers:
     title: 'MSFFT: Multi-Scale Feature Fusion Transformer for cross platform vehicle re-identification'
     year: '2024'
   XSzIFIgAAAAJ:blknAaTinKkC:
-    citations: 0
+    citations: 1
     title: 'LapGSR: Laplacian Reconstructive Network for Guided Thermal Super-Resolution'
     year: '2024'
   XSzIFIgAAAAJ:d1gkVwhDpl0C:
@@ -194,7 +194,7 @@ papers:
     title: Texture aware unsupervised segmentation for assessment of flood severity in UAV aerial images
     year: '2022'
   XSzIFIgAAAAJ:e5wmG9Sq2KIC:
-    citations: 49
+    citations: 50
     title: Pattern detection and prediction using deep learning for intelligent decision support to identify fish behaviour in aquaculture
     year: '2023'
   XSzIFIgAAAAJ:eQOLeE2rZwMC:
@@ -234,7 +234,7 @@ papers:
     title: Flood magnitude assessment from UAV aerial videos based on image segmentation and similarity
     year: '2021'
   XSzIFIgAAAAJ:lSLTfruPkqcC:
-    citations: 6
+    citations: 8
     title: Contextual information based anomaly detection for multi-scene aerial videos
     year: '2025'
   XSzIFIgAAAAJ:ldfaerwXgEUC:
@@ -257,12 +257,16 @@ papers:
     citations: 5
     title: 'DEAL-YOLO: Drone-based efficient animal localization using YOLO'
     year: '2025'
+  XSzIFIgAAAAJ:pqnbT2bcN3wC:
+    citations: 0
+    title: 'LEMMA: Laplacian pyramids for Efficient Marine SeMAntic Segmentation'
+    year: '2026'
   XSzIFIgAAAAJ:qUcmZB5y_30C:
     citations: 9
     title: Enhanced vehicle re-identification for smart city applications using zone specific surveillance
     year: '2023'
   XSzIFIgAAAAJ:qjMakFHDy7sC:
-    citations: 54
+    citations: 55
     title: 'Automatic segmentation of river and land in sar images: A deep learning approach'
     year: '2019'
   XSzIFIgAAAAJ:r0BpntZqJG4C:
