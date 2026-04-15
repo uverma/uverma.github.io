@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-13'
+  last_updated: '2026-04-15'
 papers:
   XSzIFIgAAAAJ:0EnyYjriUFMC:
     citations: 7
@@ -58,7 +58,7 @@ papers:
     title: Correlation-Based Band Selection for Hyperspectral Image Classification
     year: '2025'
   XSzIFIgAAAAJ:GnPB-g6toBAC:
-    citations: 23
+    citations: 24
     title: 'Vehicle re-identification and tracking: Algorithmic approach, challenges and future directions'
     year: '2025'
   XSzIFIgAAAAJ:IWHjjKOFINEC:
@@ -294,6 +294,6 @@ papers:
     title: '2025 IEEE GRSS Data Fusion Contest: All-Weather Land Cover and Building Damage Mapping'
     year: '2025'
   XSzIFIgAAAAJ:zYLM7Y9cAGgC:
-    citations: 45
+    citations: 46
     title: Improved semantic segmentation of water bodies and land in SAR images using generative adversarial networks
     year: '2020'
