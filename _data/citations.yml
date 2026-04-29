@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-22'
+  last_updated: '2026-04-29'
 papers:
   XSzIFIgAAAAJ:0EnyYjriUFMC:
     citations: 8
@@ -102,7 +102,7 @@ papers:
     title: 'HipyrNet: Hypernet-Guided Feature Pyramid network for mixed-exposure correction'
     year: '2025'
   XSzIFIgAAAAJ:NaGl4SEjCO4C:
-    citations: 0
+    citations: 1
     title: 'Computer Vision for Earth Observation: The Third IEEE GRSS Image Analysis and Data Fusion School'
     year: '2025'
   XSzIFIgAAAAJ:O3NaXMp0MMsC:
@@ -122,11 +122,11 @@ papers:
     title: Leveraging Self-Supervised Features for Efficient Flooded Region Identification in UAV Aerial Images
     year: '2025'
   XSzIFIgAAAAJ:Se3iqnhoufwC:
-    citations: 66
+    citations: 67
     title: 'DeepRivWidth: Deep learning based semantic segmentation approach for river identification and width measurement in SAR images of Coastal Karnataka'
     year: '2021'
   XSzIFIgAAAAJ:TQgYirikUcIC:
-    citations: 57
+    citations: 58
     title: 'There are no data like more data: Datasets for deep learning in earth observation'
     year: '2023'
   XSzIFIgAAAAJ:Tyk-4Ss8FVUC:
@@ -150,7 +150,7 @@ papers:
     title: 'Enhanced vehicle re-identification for ITS: A feature fusion approach using deep learning'
     year: '2022'
   XSzIFIgAAAAJ:Y0pCki6q_DkC:
-    citations: 119
+    citations: 121
     title: Weed density and distribution estimation for precision agriculture using semi-supervised learning
     year: '2021'
   XSzIFIgAAAAJ:YsMSGLbcyi4C:
