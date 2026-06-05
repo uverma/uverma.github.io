@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-06-05'
 papers:
   XSzIFIgAAAAJ:0EnyYjriUFMC:
     citations: 8
@@ -34,7 +34,7 @@ papers:
     title: Lstm-based prediction of water quality parameters system in backwaters
     year: '2021'
   XSzIFIgAAAAJ:70eg2SAEIzsC:
-    citations: 3
+    citations: 4
     title: Fourier Domain Adaptation for Traffic Light Detection in Adverse Weather
     year: '2025'
   XSzIFIgAAAAJ:7PzlFSSx8tAC:
@@ -58,9 +58,13 @@ papers:
     title: Correlation-Based Band Selection for Hyperspectral Image Classification
     year: '2025'
   XSzIFIgAAAAJ:GnPB-g6toBAC:
-    citations: 29
+    citations: 31
     title: 'Vehicle re-identification and tracking: Algorithmic approach, challenges and future directions'
     year: '2025'
+  XSzIFIgAAAAJ:HoB7MX3m0LUC:
+    citations: 0
+    title: 'All-Weather Land Cover and Building Damage Mapping: Outcome of the 2025 IEEE GRSS Data Fusion Contest'
+    year: '2026'
   XSzIFIgAAAAJ:IWHjjKOFINEC:
     citations: 13
     title: Fish tracking and continual behavioral pattern clustering using novel Sillago Sihama Vid (SSVid)
@@ -74,7 +78,7 @@ papers:
     title: Recent advances in machine learning for remote sensing toward the sustainable development goals
     year: '2024'
   XSzIFIgAAAAJ:J_g5lzvAfSwC:
-    citations: 0
+    citations: 1
     title: Adversarial Robustness of Deep Learning Models for Inland Water Body Segmentation from SAR Images
     year: '2026'
   XSzIFIgAAAAJ:KlAtU1dfN6UC:
@@ -126,7 +130,7 @@ papers:
     title: 'DeepRivWidth: Deep learning based semantic segmentation approach for river identification and width measurement in SAR images of Coastal Karnataka'
     year: '2021'
   XSzIFIgAAAAJ:TQgYirikUcIC:
-    citations: 59
+    citations: 62
     title: 'There are no data like more data: Datasets for deep learning in earth observation'
     year: '2023'
   XSzIFIgAAAAJ:Tyk-4Ss8FVUC:
@@ -150,7 +154,7 @@ papers:
     title: 'Enhanced vehicle re-identification for ITS: A feature fusion approach using deep learning'
     year: '2022'
   XSzIFIgAAAAJ:Y0pCki6q_DkC:
-    citations: 122
+    citations: 123
     title: Weed density and distribution estimation for precision agriculture using semi-supervised learning
     year: '2021'
   XSzIFIgAAAAJ:YsMSGLbcyi4C:
@@ -194,7 +198,7 @@ papers:
     title: Texture aware unsupervised segmentation for assessment of flood severity in UAV aerial images
     year: '2022'
   XSzIFIgAAAAJ:e5wmG9Sq2KIC:
-    citations: 53
+    citations: 54
     title: Pattern detection and prediction using deep learning for intelligent decision support to identify fish behaviour in aquaculture
     year: '2023'
   XSzIFIgAAAAJ:eQOLeE2rZwMC:
@@ -278,7 +282,7 @@ papers:
     title: BERT based Transformers lead the way in Extraction of Health Information from Social Media
     year: '2021'
   XSzIFIgAAAAJ:u-x6o8ySG0sC:
-    citations: 20
+    citations: 21
     title: Shape-based segmentation of tomatoes for agriculture monitoring
     year: '2014'
   XSzIFIgAAAAJ:u5HHmVD_uO8C:
