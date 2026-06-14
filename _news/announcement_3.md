@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to announce that our paper "LEMMA: Laplacian pyramids for Efficient Marine SeMAntic Segmentation" is accepted at CVPR 2026 Workshop MaCVi ([Full Paper])(https://openaccess.thecvf.com/content/CVPR2026W/MaCVi/papers/Gakhar_LEMMA_Laplacian_pyramids_for_Efficient_Marine_SeMAntic_Segmentation_CVPRW_2026_paper.pdf)
+Excited to announce that our paper "LEMMA: Laplacian pyramids for Efficient Marine SeMAntic Segmentation" is accepted at CVPR 2026 Workshop MaCVi [Full Paper](https://openaccess.thecvf.com/content/CVPR2026W/MaCVi/papers/Gakhar_LEMMA_Laplacian_pyramids_for_Efficient_Marine_SeMAntic_Segmentation_CVPRW_2026_paper.pdf)
