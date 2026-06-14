@@ -74,7 +74,7 @@ ninja.data = [{
             },},{id: "news-i-m-delighted-to-share-that-i-ve-been-appointed-as-the-co-chair-of-the-ieee-grss-image-analysis-and-data-fusion-technical-committee-iadf-tc-of-the-ieee-geoscience-and-remote-sensing-society",
           title: 'I’m delighted to share that I’ve been appointed as the Co-Chair of the...',
           description: "",
-          section: "News",},{id: "news-excited-to-announce-that-our-paper-lemma-laplacian-pyramids-for-efficient-marine-semantic-segmentation-is-accepted-at-cvpr-2026-workshop-macvi-full-paper-https-openaccess-thecvf-com-content-cvpr2026w-macvi-papers-gakhar-lemma-laplacian-pyramids-for-efficient-marine-semantic-segmentation-cvprw-2026-paper-pdf",
+          section: "News",},{id: "news-excited-to-announce-that-our-paper-lemma-laplacian-pyramids-for-efficient-marine-semantic-segmentation-is-accepted-at-cvpr-2026-workshop-macvi-full-paper",
           title: 'Excited to announce that our paper “LEMMA: Laplacian pyramids for Efficient Marine SeMAntic...',
           description: "",
           section: "News",},{
