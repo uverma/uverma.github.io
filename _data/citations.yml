@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-19'
+  last_updated: '2026-07-01'
 papers:
   XSzIFIgAAAAJ:0EnyYjriUFMC:
     citations: 8
@@ -46,7 +46,7 @@ papers:
     title: Exploring Techniques for Photo-realistic Image Generation from 3D Models-A Deep Learning Approach
     year: '2021'
   XSzIFIgAAAAJ:9ZlFYXVOiuMC:
-    citations: 5
+    citations: 6
     title: Recent trends and challenges in analysis of uav aerial images for post-disaster scene understanding
     year: '2022'
   XSzIFIgAAAAJ:9yKSN-GCB0IC:
@@ -54,7 +54,7 @@ papers:
     title: Segmentation of tomatoes in open field images with shape and temporal constraints
     year: '2015'
   XSzIFIgAAAAJ:BqipwSGYUEgC:
-    citations: 4
+    citations: 5
     title: Correlation-Based Band Selection for Hyperspectral Image Classification
     year: '2025'
   XSzIFIgAAAAJ:GnPB-g6toBAC:
@@ -74,11 +74,11 @@ papers:
     title: Performance analysis of semantic segmentation algorithms for finely annotated new uav aerial video dataset (manipaluavid)
     year: '2019'
   XSzIFIgAAAAJ:JV2RwH3_ST0C:
-    citations: 4
+    citations: 5
     title: Recent advances in machine learning for remote sensing toward the sustainable development goals
     year: '2024'
   XSzIFIgAAAAJ:J_g5lzvAfSwC:
-    citations: 1
+    citations: 2
     title: Adversarial Robustness of Deep Learning Models for Inland Water Body Segmentation from SAR Images
     year: '2026'
   XSzIFIgAAAAJ:KlAtU1dfN6UC:
@@ -154,11 +154,11 @@ papers:
     title: 'Enhanced vehicle re-identification for ITS: A feature fusion approach using deep learning'
     year: '2022'
   XSzIFIgAAAAJ:Y0pCki6q_DkC:
-    citations: 124
+    citations: 123
     title: Weed density and distribution estimation for precision agriculture using semi-supervised learning
     year: '2021'
   XSzIFIgAAAAJ:YsMSGLbcyi4C:
-    citations: 29
+    citations: 30
     title: Computer vision based fish tracking and behaviour detection system
     year: '2020'
   XSzIFIgAAAAJ:ZeXyd9-uunAC:
@@ -198,15 +198,15 @@ papers:
     title: Texture aware unsupervised segmentation for assessment of flood severity in UAV aerial images
     year: '2022'
   XSzIFIgAAAAJ:e5wmG9Sq2KIC:
-    citations: 56
+    citations: 57
     title: Pattern detection and prediction using deep learning for intelligent decision support to identify fish behaviour in aquaculture
     year: '2023'
   XSzIFIgAAAAJ:eQOLeE2rZwMC:
-    citations: 20
+    citations: 21
     title: Efficient vehicle counting by eliminating identical vehicles in uav aerial videos
     year: '2020'
   XSzIFIgAAAAJ:g5m5HwL7SMYC:
-    citations: 0
+    citations: 1
     title: Laplacian reconstructive network for guided thermal super-resolution
     year: '2026'
   XSzIFIgAAAAJ:hC7cP41nSMkC:
