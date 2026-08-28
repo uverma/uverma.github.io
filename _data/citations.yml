@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-26'
+  last_updated: '2026-08-28'
 papers:
   XSzIFIgAAAAJ:0EnyYjriUFMC:
     citations: 9
@@ -154,7 +154,7 @@ papers:
     title: Semantic segmentation of uav videos based on temporal smoothness in conditional random fields
     year: '2020'
   XSzIFIgAAAAJ:Y0pCki6q_DkC:
-    citations: 127
+    citations: 128
     title: Weed density and distribution estimation for precision agriculture using semi-supervised learning
     year: '2021'
   XSzIFIgAAAAJ:YsMSGLbcyi4C:
