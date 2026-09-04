@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-28'
+  last_updated: '2026-09-04'
 papers:
   XSzIFIgAAAAJ:0EnyYjriUFMC:
     citations: 9
@@ -146,7 +146,7 @@ papers:
     title: Semantic segmentation of UAV aerial videos using convolutional neural networks
     year: '2019'
   XSzIFIgAAAAJ:W7OEmFMy1HYC:
-    citations: 73
+    citations: 77
     title: 'Uvid-net: Enhanced semantic segmentation of uav aerial videos by embedding temporal information'
     year: '2021'
   XSzIFIgAAAAJ:WF5omc3nYNoC:
@@ -198,7 +198,7 @@ papers:
     title: Texture aware unsupervised segmentation for assessment of flood severity in uav aerial images
     year: '2022'
   XSzIFIgAAAAJ:e5wmG9Sq2KIC:
-    citations: 56
+    citations: 57
     title: Pattern detection and prediction using deep learning for intelligent decision support to identify fish behaviour in aquaculture
     year: '2023'
   XSzIFIgAAAAJ:eQOLeE2rZwMC:
